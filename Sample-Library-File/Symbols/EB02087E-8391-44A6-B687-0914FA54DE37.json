@@ -1,0 +1,54 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGaGlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiotMzc7Q0RFRkdLT1ZaXmFiZFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA18QEUZJTExTIC0gRFJPUERPV05T0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAGIAZXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVXTlNDb2xvclZOU0tlcm7UIyQKJSYnKClaTlNUYWJTdG9wc18QEk5TV3JpdGluZ0RpcmVjdGlvbltOU1RleHRMaXN0c4AAEAGAC4AJ0hIKKyyggArSLi8wMVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiMDJYTlNPYmplY3TSLi80NV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozQ2Ml8QEE5TUGFyYWdyYXBoU3R5bGXSCjg5Ol8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgo8P0KiPT6ADoAPokBBgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQEQAAAAAAABaTGF0by1CbGFja9IuL0hJXxATTlNNdXRhYmxlRGljdGlvbmFyeaNISjJcTlNEaWN0aW9uYXJ50i4vTE1fEBBOU0ZvbnREZXNjcmlwdG9yok4yXxAQTlNGb250RGVzY3JpcHRvctRQUVIKUydUVVVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECcwLjIwODMwNDY0MDEgMC4yMzYyMDI4NTg5IDAuMjYxMDAxMjc1NQCAFYAX0lcKWFlUTlNJRBABgBbSLi9bXFxOU0NvbG9yU3BhY2WiXTJcTlNDb2xvclNwYWNl0i4vX2BXTlNDb2xvcqJfMiM/8AAAAAAAANIuL0pjokoy0i4vZWZfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiZzJfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRamtUcm9vdIABAAgAEQAaACMALQAyADcAVQBbAGIAawByAH8AgQCDAIUAmQCgAKgAswC4ALoAvAC+AMAAxQDHAMkAywDNAM8A4gEEAQwBEwEcAScBPAFIAUoBTAFOAVABVQFWAVgBXQFoAXEBeQF8AYUBigGkAagBuwHAAd0B3wHhAegB6wHtAe8B8gH0AfYB+AIOAiQCLQI4Aj0CUwJXAmQCaQJ8An8CkgKbAqECrgLDAu0C7wLxAvYC+wL9Av8DBAMRAxQDIQMmAy4DMQM6Az8DQgNHA1wDXwN0A4YDiQOOAAAAAAAAAgEAAAAAAAAAbAAAAAAAAAAAAAAAAAAAA5A="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "EB02087E-8391-44A6-B687-0914FA54DE37",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 415,
+    "x": 0,
+    "y": 788
+  },
+  "glyphBounds": "{{2, 9}, {411, 31}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "FILLS - DROPDOWNS",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "54C55A0A-9BAC-4181-A34C-8F4991EAFD05"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

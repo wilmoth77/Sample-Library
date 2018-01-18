@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGa2xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6PklMT1NaXmJlZ1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA1lMaW5rIEZpdmXTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAmAEYAVgBlWTlNLZXJuXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVXTlNDb2xvciM/4AAAAAAAANIKJCUmXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEIAK0xESCigrLqIpKoALgAyiLC2ADYAOgA9fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFxMYXRvLVJlZ3VsYXLSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM2ODlcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jQ1OzxfEBBOU0ZvbnREZXNjcmlwdG9yoj05XxAQTlNGb250RGVzY3JpcHRvctY/QEFCCkNERUZHSEZaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodF8QEk5TV3JpdGluZ0RpcmVjdGlvbl8QD05TTWF4TGluZUhlaWdodIAAgBIjQDAAAAAAAAAQAYAU0hIKSkuggBPSNDVNTldOU0FycmF5ok050jQ1UFFfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNQUjlfEBBOU1BhcmFncmFwaFN0eWxl1FRVVgpXR1hZVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QJzAuMjA4MzA0NjQwMSAwLjIzNjIwMjg1ODkgMC4yNjEwMDEyNzU1AIAWgBjSWwpcXVROU0lEEAGAF9I0NV9gXE5TQ29sb3JTcGFjZaJhOVxOU0NvbG9yU3BhY2XSNDVjZFdOU0NvbG9yomM50jQ1OGaiODnSNDVoaV8QEk5TQXR0cmlidXRlZFN0cmluZ6JqOV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFtblRyb290gAEACAARABoAIwAtADIANwBVAFsAYgBrAHIAfwCBAIMAhQCPAJYAngCpAK4AsACyALQAtgC7AL0AvwDBAMMAxQDMAO4BAQEJARIBFwE0ATYBOAE/AUIBRAFGAUkBSwFNAU8BZQF7AYQBkQGWAaEBqgHAAcQB0QHaAd8B8gH1AggCFQIgAiwCPgJTAmUCZwJpAnICdAJ2AnsCfAJ+AoMCiwKOApMCrQKxAsQCzQLTAuAC9QMfAyEDIwMoAy0DLwMxAzYDQwNGA1MDWANgA2MDaANrA3ADhQOIA50DrwOyA7cAAAAAAAACAQAAAAAAAABvAAAAAAAAAAAAAAAAAAADuQ=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "3C3E60BE-3621-4AAC-A501-FEB5CFD3A488",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 144,
+    "x": 8,
+    "y": 8
+  },
+  "glyphBounds": "{{1, 2}, {57, 12}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Link Five",
+  "nameIsFixed": false,
+  "resizingConstraint": 2,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "1FE09B4A-C982-45A5-AA52-706B715A78DB"
+  },
+  "textBehaviour": 1
+}

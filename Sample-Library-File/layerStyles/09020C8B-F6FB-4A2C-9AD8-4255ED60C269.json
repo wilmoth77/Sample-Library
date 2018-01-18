@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "09020C8B-F6FB-4A2C-9AD8-4255ED60C269",
+  "name": "Overlay / Heavy",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.9,
+          "blue": 0.2610012755102041,
+          "green": 0.2362028588660843,
+          "red": 0.2083046401414496
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "09020C8B-F6FB-4A2C-9AD8-4255ED60C269",
+    "startDecorationType": 0
+  }
+}

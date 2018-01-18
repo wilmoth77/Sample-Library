@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIi8yODxASElKS0xQVFVcYGRnaVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA1NTdW7TERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAyAFIAVgBlfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZVZOU0tlcm5XTlNDb2xvctcKIyQlJicoKSorLCwtLlpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0XxASTlNXcml0aW5nRGlyZWN0aW9uW05TQWxpZ25tZW50gAuAAIAJI0AwAAAAAAAAEAEQAtISCjAxoIAK0jM0NTZaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojU3WE5TT2JqZWN00jM0OTpfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM5OzdfEBBOU1BhcmFncmFwaFN0eWxl0go9Pj9fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKQURHokJDgA6AD6JFRoAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AmAAAAAAAAWUxhdG8tQm9sZNIzNE1OXxATTlNNdXRhYmxlRGljdGlvbmFyeaNNTzdcTlNEaWN0aW9uYXJ50jM0UVJfEBBOU0ZvbnREZXNjcmlwdG9yolM3XxAQTlNGb250RGVzY3JpcHRvciM/4AAAAAAAANRWV1gKWS1aW1VOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECcwLjIwODMwNDY0MDEgMC4yMzYyMDI4NTg5IDAuMjYxMDAxMjc1NQCAFoAY0l0KXl9UTlNJRBABgBfSMzRhYlxOU0NvbG9yU3BhY2WiYzdcTlNDb2xvclNwYWNl0jM0ZWZXTlNDb2xvcqJlN9IzNE9ook830jM0amtfEBJOU0F0dHJpYnV0ZWRTdHJpbmeibDdfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRb3BUcm9vdIABAAgAEQAaACMALQAyADcAVQBbAGIAawByAH8AgQCDAIUAiQCQAJgAowCoAKoArACuALAAtQC3ALkAuwC9AL8A0gD0APsBAwESAR0BKQE7AU0BYgFuAXABcgF0AX0BfwGBAYYBhwGJAY4BmQGiAaoBrQG2AbsB1QHZAewB8QIOAhACEgIZAhwCHgIgAiMCJQInAikCPwJVAl4CaAJtAoMChwKUApkCrAKvAsICywLUAtoC5wL8AyYDKAMqAy8DNAM2AzgDPQNKA00DWgNfA2cDagNvA3IDdwOMA48DpAO2A7kDvgAAAAAAAAIBAAAAAAAAAHEAAAAAAAAAAAAAAAAAAAPA"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "2D344C2F-7B5C-4CE5-BA19-512A7DDB30EB",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 40,
+    "x": 240,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 0}, {19, 14}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Sun",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "5858322B-6935-4010-9D5B-A67453AA1F69"
+  },
+  "textBehaviour": 1
+}

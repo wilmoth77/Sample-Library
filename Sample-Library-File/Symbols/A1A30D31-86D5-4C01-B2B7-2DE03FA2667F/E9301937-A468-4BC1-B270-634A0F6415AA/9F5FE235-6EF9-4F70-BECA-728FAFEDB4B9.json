@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGa2xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIi0wNjo+RkdISUpOUlNaXmJlZ1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA1lMaW5rIEZvdXLTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAyAFIAVgBlfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZVZOU0tlcm5XTlNDb2xvctYjJCUmCicoKSorLCpaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodF8QEk5TV3JpdGluZ0RpcmVjdGlvbl8QD05TTWF4TGluZUhlaWdodIAAgAkjQDAAAAAAAAAQAYAL0hIKLi+ggArSMTIzNFokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiMzVYTlNPYmplY3TSMTI3OF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozc5NV8QEE5TUGFyYWdyYXBoU3R5bGXSCjs8PV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgo/QkWiQEGADoAPokNEgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABcTGF0by1SZWd1bGFy0jEyS0xfEBNOU011dGFibGVEaWN0aW9uYXJ5o0tNNVxOU0RpY3Rpb25hcnnSMTJPUF8QEE5TRm9udERlc2NyaXB0b3KiUTVfEBBOU0ZvbnREZXNjcmlwdG9yIz/gAAAAAAAA1FRVVgpXK1hZVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZUYxIDEgMQCAFoAY0lsKXF1UTlNJRBABgBfSMTJfYFxOU0NvbG9yU3BhY2WiYTVcTlNDb2xvclNwYWNl0jEyY2RXTlNDb2xvcqJjNdIxMk1mok010jEyaGlfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiajVfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRbW5Ucm9vdIABAAgAEQAaACMALQAyADcAVQBbAGIAawByAH8AgQCDAIUAjwCWAJ4AqQCuALAAsgC0ALYAuwC9AL8AwQDDAMUA2AD6AQEBCQEWASEBLQE/AVQBZgFoAWoBcwF1AXcBfAF9AX8BhAGPAZgBoAGjAawBsQHLAc8B4gHnAgQCBgIIAg8CEgIUAhYCGQIbAh0CHwI1AksCVAJhAmYCfAKAAo0CkgKlAqgCuwLEAs0C0wLgAvUC/AL+AwADBQMKAwwDDgMTAyADIwMwAzUDPQNAA0UDSANNA2IDZQN6A4wDjwOUAAAAAAAAAgEAAAAAAAAAbwAAAAAAAAAAAAAAAAAAA5Y="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "9F5FE235-6EF9-4F70-BECA-728FAFEDB4B9",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 208,
+    "x": 8,
+    "y": 8
+  },
+  "glyphBounds": "{{1, 2}, {60, 12}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Link Four",
+  "nameIsFixed": false,
+  "resizingConstraint": 2,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "C12A9D08-C9BF-463A-844D-200A22D0CE44"
+  },
+  "textBehaviour": 1
+}

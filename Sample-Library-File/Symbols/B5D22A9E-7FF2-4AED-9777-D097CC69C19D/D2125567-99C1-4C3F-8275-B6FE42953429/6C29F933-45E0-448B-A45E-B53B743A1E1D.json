@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIi8yODxASElKS0xQVFVcYGRnaVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA1hQcmV2aW91c9MREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADIAUgBWAGV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlVk5TS2VybldOU0NvbG9y1wojJCUmJygpKissLC0uWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHRfEBJOU1dyaXRpbmdEaXJlY3Rpb25bTlNBbGlnbm1lbnSAC4AAgAkjQDgAAAAAAAAQARAC0hIKMDGggArSMzQ1NlokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiNTdYTlNPYmplY3TSMzQ5Ol8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozk7N18QEE5TUGFyYWdyYXBoU3R5bGXSCj0+P18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgpBREeiQkOADoAPokVGgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDAAAAAAAABcTGF0by1SZWd1bGFy0jM0TU5fEBNOU011dGFibGVEaWN0aW9uYXJ5o01PN1xOU0RpY3Rpb25hcnnSMzRRUl8QEE5TRm9udERlc2NyaXB0b3KiUzdfEBBOU0ZvbnREZXNjcmlwdG9yIz/gAAAAAAAA1FZXWApZLVpbVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QJzAuMjA4MzA0NjQwMSAwLjIzNjIwMjg1ODkgMC4yNjEwMDEyNzU1AIAWgBjSXQpeX1ROU0lEEAGAF9IzNGFiXE5TQ29sb3JTcGFjZaJjN1xOU0NvbG9yU3BhY2XSMzRlZldOU0NvbG9yomU30jM0T2iiTzfSMzRqa18QEk5TQXR0cmlidXRlZFN0cmluZ6JsN18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFvcFRyb290gAEACAARABoAIwAtADIANwBVAFsAYgBrAHIAfwCBAIMAhQCOAJUAnQCoAK0ArwCxALMAtQC6ALwAvgDAAMIAxADXAPkBAAEIARcBIgEuAUABUgFnAXMBdQF3AXkBggGEAYYBiwGMAY4BkwGeAacBrwGyAbsBwAHaAd4B8QH2AhMCFQIXAh4CIQIjAiUCKAIqAiwCLgJEAloCYwJwAnUCiwKPApwCoQK0ArcCygLTAtwC4gLvAwQDLgMwAzIDNwM8Az4DQANFA1IDVQNiA2cDbwNyA3cDegN/A5QDlwOsA74DwQPGAAAAAAAAAgEAAAAAAAAAcQAAAAAAAAAAAAAAAAAAA8g="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "6C29F933-45E0-448B-A45E-B53B743A1E1D",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 66,
+    "x": 16,
+    "y": 8
+  },
+  "glyphBounds": "{{0, 0}, {65, 21}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Previous",
+  "nameIsFixed": false,
+  "resizingConstraint": 42,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "A4E3059D-1CBC-48F9-855C-EA5FA41486DE"
+  },
+  "textBehaviour": 1
+}
